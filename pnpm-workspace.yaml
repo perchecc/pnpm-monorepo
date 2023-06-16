@@ -1,0 +1,9 @@
+packages:
+  # 前端项目目录
+  - "packages/*"
+  # 公共组件目录
+  - "components/**"
+  # 公共接口
+  - "api/**"
+  # 公共工具
+  - "utils/**"
